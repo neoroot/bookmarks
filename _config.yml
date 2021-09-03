@@ -1,0 +1,8 @@
+# base path
+baseurl: /bookmarks
+
+# site title
+title: Bookmarks
+
+# site favicon
+favicon: ./img/favicon.png
